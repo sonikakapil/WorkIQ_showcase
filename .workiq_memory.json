@@ -1,6 +1,12 @@
 {
   "turns": [
     {
+      "workflow": "Skills - Draft What I Need",
+      "query": "Based on my current work context, draft the 3 messages I most likely need next.\n\nReturn:\n- one executive follow-up note\n- one customer or stakeholder alignment message\n- one internal delegation or unblocker note\n\nFor each draft:\n- give me a strong subject line\n- keep it concise and ready to send\n- make the tone appropriate to the audience\n- include the specific ask, owner, and next step\n\nMake the output practical enough that I could copy, edit lightly, and send.",
+      "answer_summary": "## What to carry forward | - **HSBC ambiguity is still the primary value leak.** Scope, owner, and decision authority remain unresolved, which is why work keeps cycling without closure. | - **Your leverage is pre-wiring decisions, not attendance.** When you are not explicit ahead of meetings, outcomes default to drift. | - **April delivery credibility is at risk** unless scope and success criteria are locked this week.",
+      "ts": 1775553402.2606053
+    },
+    {
       "workflow": "Memory - Continue From Earlier",
       "query": "Continue from our earlier discussion instead of starting over.\n\nUse what is already in context from this session and build forward.\n\nGive me:\n- what should be carried forward from the earlier answer\n- what has become more urgent or more important\n- the 5 highest-value follow-ups with owner, why, and next move\n- the single fastest unblock\n- what I should do in the next 24 hours\n\nDo not re-summarize everything from scratch. Preserve continuity.",
       "answer_summary": "## Carried forward | - **HSBC ambiguity remains the central drag.** Scope, ownership, and decision timing are still soft, which is why the same conversations keep resurfacing. Until this is forced, HSBC work will continue to leak time and attention. [1](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOAFRAAgI3pUBxwnAAEYAAAAAuQIkh8VUHEqn37hm98c2NQcA9Fj0hGAGjkS17VDENNQOwQAAAAABDQAA9Fj0hGAGjkS17VDENNQOwQAF_EXyVAAAEA%3d%3d)[2](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOAFRAAgI3pUBxwnAAEYAAAAAuQIkh8VUHEqn37hm98c2NQcA9Fj0hGAGjkS17VDENNQOwQAAAAABDQAA9Fj0hGAGjkS17VDENNQOwQAF_EXyC",
@@ -41,12 +47,6 @@
       "query": "Audit where my time and attention are going.\n\nDo not just summarize workload. Show me:\n- what is consuming disproportionate attention\n- which threads genuinely deserve my time\n- what I should stop attending, delegate, batch, or shorten\n- where I am acting as a bottleneck\n- the 3 highest-impact changes that would improve throughput this week\n\nBe direct. Optimize for leverage, not completeness.",
       "answer_summary": "## Attention drain | - **HSBC ambiguity loops** are consuming outsized attention. Repeated conversations without locked scope, named owners, or decision dates are pulling you back in as the default closer. This is high time cost with diminishing returns. | - **Partner narrative churn** is absorbing mental bandwidth. You are repeatedly reconciling internal, partner, and customer stories instead of forcing convergence once. | - **Compete monitoring (Google/AWS)** is creating reactive context-switching. You are tracking signals personally rather than delegating a single, structured response posture.",
       "ts": 1775039404.8330815
-    },
-    {
-      "workflow": "Draft What I Need",
-      "query": "Based on my current work context, draft the 3 messages I most likely need next.\n\nReturn:\n- one executive follow-up note\n- one customer or stakeholder alignment message\n- one internal delegation or unblocker note\n\nFor each draft:\n- give me a strong subject line\n- keep it concise and ready to send\n- make the tone appropriate to the audience\n- include the specific ask, owner, and next step",
-      "answer_summary": "## Draft 1 - Executive follow-up | **Subject** | HSBC: Lock scope, owner, and decision date | **Message**",
-      "ts": 1775039354.7957904
     }
   ]
 }
