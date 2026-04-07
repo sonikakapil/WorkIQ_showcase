@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.workiq_memory.json
+.streamlit/secrets.toml
