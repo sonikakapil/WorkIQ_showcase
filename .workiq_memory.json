@@ -1,6 +1,42 @@
 {
   "turns": [
     {
+      "workflow": "Productivity - Channel Pulse",
+      "query": "Give me a channel digest for what matters most right now across my Teams channels.\n\nI want:\n- the top decisions made recently\n- the action items that need me or affect my work\n- the most important mentions of me\n- the active discussions I should be aware of\n- the 3 things I should respond to or influence today\n\nPresent it like a senior operator catching up fast, not like a thread transcript.",
+      "answer_summary": "## Cross-channel highlights | - HSBC has shifted from “art of the possible” to execution across Copilot, Power BI and Fabric — threads now contain SOWs, timelines and named owners. This marks a move from exploration to dependency. | - Foundry is approved at compliance level only; several stakeholders assume full availability. That gap will create friction unless managed now. | - LSEG / HSBC workshop is fixed for 29 April and requires Innovation Hub resourcing confirmation from you.",
+      "ts": 1775578667.8375833
+    },
+    {
+      "workflow": "Memory - Continue From Earlier",
+      "query": "Continue from our earlier discussion instead of starting over.\n\nUse what is already in context from this session and build forward.\n\nGive me:\n- what should be carried forward from the earlier answer\n- what has become more urgent or more important\n- the 5 highest-value follow-ups with owner, why, and next move\n- the single fastest unblock\n- what I should do in the next 24 hours\n\nDo not re-summarize everything from scratch. Preserve continuity.",
+      "answer_summary": "## Carried forward | - **Tomorrow is still a forced choice, not a logistics problem.** You are triple-booked across two strategic fronts: **Novo Nordisk (relationship capital, in-person)** versus **HSBC (decision velocity, external, time-bound)**. The calendar evidence confirms this has not resolved itself. [1](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOABGAAAAAAC5AiSHxVQcSqffuGb3xzY1BwD0WPSEYAaORLXtUMQ01A7BAAAAAAENAAD0WPSEYAaORLXtUMQ01A7BAAX4RfKPAAA%3d)[2](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOAFRAAgI3pUBxwnAAEYAAAAAuQIkh8VUHEqn37hm98c2NQcA9Fj0hGAGjkS17VDENNQO",
+      "ts": 1775578331.3838527
+    },
+    {
+      "workflow": "WorkIQ - Tomorrow Command Center",
+      "query": "Build my command center for tomorrow.\n\nUse my calendar, current work threads, and stakeholder context.\n\nGive me:\n- the 3 meetings that matter most\n- what each key stakeholder is likely to care about\n- any collisions, overlaps, or risks I should manage\n- what I should decide, delegate, or defer\n- the 3 prep moves that would most improve tomorrow\n\nMake it feel like a chief-of-staff briefing, not a meeting summary.\nEnd with: If I only do three things tonight, do these.",
+      "answer_summary": "## Executive call | Tomorrow is **triple-booked across two strategic fronts**: **Novo Nordisk relationship capital** (in-person block) versus **HSBC decision velocity** (two time-sensitive slots). The calendar is currently set up to **fail by default** unless you actively choose what you will *not* personally attend and who carries authority in your place. [1](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOAFRAAgI3pUBxwnAAEYAAAAAuQIkh8VUHEqn37hm98c2NQcA9Fj0hGAGjkS17VDENNQOwQAAAAABDQAA9Fj0hGAGjkS17VDENNQOwQAGzchpHgAAEA%3d%3d)[2](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNl",
+      "ts": 1775578073.1600165
+    },
+    {
+      "workflow": "Productivity - Meeting Load Radar",
+      "query": "Analyze my meeting load for this week like a ruthless staff chief.\n\nI want:\n- total meeting hours and approximate percentage of work time\n- the days that look overloaded\n- which recurring meetings are consuming the most time\n- which meetings should be shortened, delegated, or challenged\n- the practical time I could win back\n\nDo not stay descriptive. Recommend concrete reductions.",
+      "answer_summary": "## Executive take | Your calendar is **structurally overloaded and under-discriminating**. This week is tracking at **~26-28 hours of meetings**, roughly **65-70% of a normal 40-hour work week**, before prep or follow-ups. The load is not driven by customer execution alone, but by **large, optional, broadcast-style meetings** that dilute decision velocity. The risk is not burnout; it is **loss of leverage on HSBC and dilution of executive credibility**. [1](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOAFRAAgI3pNvcjZAAEYAAAAAuQIkh8VUHEqn37hm98c2NQcA9Fj0hGAGjkS17VDENNQOwQAAAAABDQAA9Fj0hGAGjkS17VDENNQOwQAIxnOlrQAAEA%3d%3d) | ## Meeti",
+      "ts": 1775564353.0739348
+    },
+    {
+      "workflow": "Productivity - Channel Pulse",
+      "query": "Give me a channel digest for what matters most right now across my Teams channels.\n\nI want:\n- the top decisions made recently\n- the action items that need me or affect my work\n- the most important mentions of me\n- the active discussions I should be aware of\n- the 3 things I should respond to or influence today\n\nPresent it like a senior operator catching up fast, not like a thread transcript.",
+      "answer_summary": "## Cross-channel highlights | - **HSBC strategy is converging but not closed.** Multiple threads point to the same pressure: move from fragmented AI pilots to a single, wall-to-wall Copilot + Agentic strategy, with clearer ownership and executive narrative. This shows up across Strategy Planning, vTeam Leads, and LT chats, but decisions are still being socialised rather than locked. [1](https://teams.microsoft.com/l/message/19:meeting_N2ViNDA3NWItZDgxYS00N2RiLWE4NWQtNmFmZDNjYzAzYTNl@thread.v2/1774436196625?context=%7B%22contextType%22:%22chat%22%7D)[2](https://teams.microsoft.com/l/message/19:7ead31c5de664d888aadd1b7b9077d9f@thread.v2/1774373636126?context=%7B%22contextType%22:%22chat%22%7D)",
+      "ts": 1775559295.478147
+    },
+    {
+      "workflow": "WorkIQ - Tomorrow Command Center",
+      "query": "Build my command center for tomorrow.\n\nUse my calendar, current work threads, and stakeholder context.\n\nGive me:\n- the 3 meetings that matter most\n- what each key stakeholder is likely to care about\n- any collisions, overlaps, or risks I should manage\n- what I should decide, delegate, or defer\n- the 3 prep moves that would most improve tomorrow\n\nMake it feel like a chief-of-staff briefing, not a meeting summary.\nEnd with: If I only do three things tonight, do these.",
+      "answer_summary": "## Executive call | Tomorrow is **HSBC-constrained and collision-heavy**. Novo Nordisk is a fixed, high-visibility block that removes you from live HSBC conversations. Your leverage comes from **pre-wiring decisions and delegating authority**, not real-time attendance. If scope and ownership are not forced tomorrow, April delivery credibility will continue to erode. | ## Critical meetings | ### 1) Novo Nordisk - Microsoft: Meet Up in Ballerup (08:00-12:00)",
+      "ts": 1775556423.935363
+    },
+    {
       "workflow": "Skills - Draft What I Need",
       "query": "Based on my current work context, draft the 3 messages I most likely need next.\n\nReturn:\n- one executive follow-up note\n- one customer or stakeholder alignment message\n- one internal delegation or unblocker note\n\nFor each draft:\n- give me a strong subject line\n- keep it concise and ready to send\n- make the tone appropriate to the audience\n- include the specific ask, owner, and next step\n\nMake the output practical enough that I could copy, edit lightly, and send.",
       "answer_summary": "## What to carry forward | - **HSBC ambiguity is still the primary value leak.** Scope, owner, and decision authority remain unresolved, which is why work keeps cycling without closure. | - **Your leverage is pre-wiring decisions, not attendance.** When you are not explicit ahead of meetings, outcomes default to drift. | - **April delivery credibility is at risk** unless scope and success criteria are locked this week.",
@@ -11,42 +47,6 @@
       "query": "Continue from our earlier discussion instead of starting over.\n\nUse what is already in context from this session and build forward.\n\nGive me:\n- what should be carried forward from the earlier answer\n- what has become more urgent or more important\n- the 5 highest-value follow-ups with owner, why, and next move\n- the single fastest unblock\n- what I should do in the next 24 hours\n\nDo not re-summarize everything from scratch. Preserve continuity.",
       "answer_summary": "## Carried forward | - **HSBC ambiguity remains the central drag.** Scope, ownership, and decision timing are still soft, which is why the same conversations keep resurfacing. Until this is forced, HSBC work will continue to leak time and attention. [1](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOAFRAAgI3pUBxwnAAEYAAAAAuQIkh8VUHEqn37hm98c2NQcA9Fj0hGAGjkS17VDENNQOwQAAAAABDQAA9Fj0hGAGjkS17VDENNQOwQAF_EXyVAAAEA%3d%3d)[2](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOAFRAAgI3pUBxwnAAEYAAAAAuQIkh8VUHEqn37hm98c2NQcA9Fj0hGAGjkS17VDENNQOwQAAAAABDQAA9Fj0hGAGjkS17VDENNQOwQAF_EXyC",
       "ts": 1775552933.1700344
-    },
-    {
-      "workflow": "WorkIQ - Tomorrow Command Center",
-      "query": "Build my command center for tomorrow.\n\nUse my calendar, current work threads, and stakeholder context.\n\nGive me:\n- the 3 meetings that matter most\n- what each key stakeholder is likely to care about\n- any collisions, overlaps, or risks I should manage\n- what I should decide, delegate, or defer\n- the 3 prep moves that would most improve tomorrow\n\nMake it feel like a chief-of-staff briefing, not a meeting summary.\nEnd with: If I only do three things tonight, do these.",
-      "answer_summary": "## Executive call | Tomorrow is **HSBC-first, conflict-heavy, and decision-constrained**. Your leverage is not attendance; it is **forcing clarity while physically unavailable**. You must treat Novo Nordisk as a fixed block and actively manage HSBC outcomes around it. If you do not pre-wire decisions tonight, HSBC will drift again. | ## Critical meetings | **1) HSBC & MS Partnership Connect (10:00-10:30)**",
-      "ts": 1775552547.7151587
-    },
-    {
-      "workflow": "Skills - Draft What I Need",
-      "query": "Based on my current work context, draft the 3 messages I most likely need next.\n\nReturn:\n- one executive follow-up note\n- one customer or stakeholder alignment message\n- one internal delegation or unblocker note\n\nFor each draft:\n- give me a strong subject line\n- keep it concise and ready to send\n- make the tone appropriate to the audience\n- include the specific ask, owner, and next step\n\nMake the output practical enough that I could copy, edit lightly, and send.",
-      "answer_summary": "## Draft 1 - Executive follow-up | **Subject** | HSBC Power BI scope: decision required to lock April delivery | **Message**",
-      "ts": 1775055312.7152069
-    },
-    {
-      "workflow": "Memory - Continue From Earlier",
-      "query": "Continue from our earlier discussion instead of starting over.\n\nUse what is already in context from this session and build forward.\n\nGive me:\n- what should be carried forward from the earlier answer\n- what has become more urgent or more important\n- the 5 highest-value follow-ups with owner, why, and next move\n- the single fastest unblock\n- what I should do in the next 24 hours\n\nDo not re-summarize everything from scratch. Preserve continuity.",
-      "answer_summary": "## Carried forward | - **HSBC ambiguity is still the core drag.** You are being pulled back into the same loops because scope, ownership, and decision dates are not hard-set. Until that is forced, everything else stays noisy. | - **Power BI scope is the leverage point.** That early meeting is not about delivery detail; it is about freezing the commercial shape and preventing downstream rework. | - **Partner narrative churn remains unresolved.** You are still acting as the reconciler between Microsoft, partner, and HSBC stories. This is fixable with one alignment move, not more meetings.",
-      "ts": 1775055244.3741915
-    },
-    {
-      "workflow": "WorkIQ - Tomorrow Command Center",
-      "query": "Build my command center for tomorrow.\n\nUse my calendar, current work threads, and stakeholder context.\n\nGive me:\n- the 3 meetings that matter most\n- what each key stakeholder is likely to care about\n- any collisions, overlaps, or risks I should manage\n- what I should decide, delegate, or defer\n- the 3 prep moves that would most improve tomorrow\n\nMake it feel like a chief-of-staff briefing, not a meeting summary.\nEnd with: If I only do three things tonight, do these.",
-      "answer_summary": "## Executive call | Tomorrow is an **HSBC decision-density day**. Your leverage comes from forcing **scope clarity, partner alignment, and executive confidence**, not from attending everything. Three moments matter: one to lock delivery shape, one to align the partner front, and one to secure executive optics for April. Everything else is background noise or optional. | ## Critical meetings | **1) HSBC: Power BI - Scope of Work (07:00-07:30)** [1](https://teams.microsoft.com/l/meeting/details?eventId=AAMkADNkM2JmNDRhLWMyZTAtNDQ3NS04MjBiLTUzNjdiNTk4MmNlOABGAAAAAAC5AiSHxVQcSqffuGb3xzY1BwD0WPSEYAaORLXtUMQ01A7BAAAAAAENAAD0WPSEYAaORLXtUMQ01A7BAAX4RfJoAAA%3d)",
-      "ts": 1775054831.1712325
-    },
-    {
-      "workflow": "WorkIQ - Tomorrow Command Center",
-      "query": "Build my command center for tomorrow.\n\nUse my calendar, current work threads, and stakeholder context.\n\nGive me:\n- the 3 meetings that matter most\n- what each key stakeholder is likely to care about\n- any collisions, overlaps, or risks I should manage\n- what I should decide, delegate, or defer\n- the 3 prep moves that would most improve tomorrow\n\nMake it feel like a chief-of-staff briefing, not a meeting summary.\nEnd with: If I only do three things tonight, do these.",
-      "answer_summary": "## Executive call | Tomorrow is an **HSBC-heavy decision day**. Your leverage comes from forcing scope, ownership, and partner alignment-not from attending everything. Two meetings can materially move revenue and credibility; the rest are optional or delegable. Optimize for **decisions locked**, not airtime. | ## Critical meetings | **1) HSBC: PowerBI - Scope of Work (07:00-07:30)**",
-      "ts": 1775043347.1840286
-    },
-    {
-      "workflow": "Attention Audit",
-      "query": "Audit where my time and attention are going.\n\nDo not just summarize workload. Show me:\n- what is consuming disproportionate attention\n- which threads genuinely deserve my time\n- what I should stop attending, delegate, batch, or shorten\n- where I am acting as a bottleneck\n- the 3 highest-impact changes that would improve throughput this week\n\nBe direct. Optimize for leverage, not completeness.",
-      "answer_summary": "## Attention drain | - **HSBC ambiguity loops** are consuming outsized attention. Repeated conversations without locked scope, named owners, or decision dates are pulling you back in as the default closer. This is high time cost with diminishing returns. | - **Partner narrative churn** is absorbing mental bandwidth. You are repeatedly reconciling internal, partner, and customer stories instead of forcing convergence once. | - **Compete monitoring (Google/AWS)** is creating reactive context-switching. You are tracking signals personally rather than delegating a single, structured response posture.",
-      "ts": 1775039404.8330815
     }
   ]
 }
